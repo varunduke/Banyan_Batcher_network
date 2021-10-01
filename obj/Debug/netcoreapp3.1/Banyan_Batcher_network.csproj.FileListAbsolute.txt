@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\bin\Debug\netcoreapp3.1\Banyan_Batcher_network.exe
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\bin\Debug\netcoreapp3.1\Banyan_Batcher_network.deps.json
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\bin\Debug\netcoreapp3.1\Banyan_Batcher_network.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\bin\Debug\netcoreapp3.1\Banyan_Batcher_network.runtimeconfig.dev.json
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\bin\Debug\netcoreapp3.1\Banyan_Batcher_network.dll
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\bin\Debug\netcoreapp3.1\Banyan_Batcher_network.pdb
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.csprojAssemblyReference.cache
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.dll
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.pdb
+D:\Projects\Visual Studio Projects\Banyan_Batcher_network\Banyan_Batcher_network\obj\Debug\netcoreapp3.1\Banyan_Batcher_network.genruntimeconfig.cache

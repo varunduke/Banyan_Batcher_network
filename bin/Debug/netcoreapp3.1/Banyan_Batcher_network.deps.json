@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Banyan_Batcher_network/1.0.0": {
+        "runtime": {
+          "Banyan_Batcher_network.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banyan_Batcher_network/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
